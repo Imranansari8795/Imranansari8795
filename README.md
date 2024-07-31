@@ -1,4 +1,4 @@
-👋 Hi, I’m @Imranansari8795  
+👋 Hi, I’m Imran Ansari
 👀 I’m interested in software development, web technologies, and solving challenging problems.  
 🌱 I’m currently learning advanced web development frameworks and algorithms.  
 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.  
